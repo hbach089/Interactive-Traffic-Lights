@@ -1,0 +1,12 @@
+../Core/Src/main.c:113:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:126:5:main	8	static
+../Core/Src/main.c:226:6:SystemClock_Config	88	static
+../Core/Src/main.c:268:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:341:6:StartTask1	16	static
+../Core/Src/main.c:363:6:StartTask2	16	static
+../Core/Src/main.c:388:6:StartTask3	16	static
+../Core/Src/main.c:409:6:StartBtnTask	24	static
+../Core/Src/main.c:449:6:StartTask5	16	static
+../Core/Src/main.c:474:6:StartTask6	16	static
+../Core/Src/main.c:498:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:516:6:Error_Handler	4	static,ignoring_inline_asm
