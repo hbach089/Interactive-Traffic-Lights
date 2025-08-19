@@ -6,10 +6,8 @@
 - [Documentation](##documentation)
 - [Project Setup](##project-setup)
 
-<h2 id="general-info">
-   General Info
-</h2>
 
+## General Info
 
 - Board: STM32F446re
 - Each peripheral has a 32 bit address which provides the basis of this project.
