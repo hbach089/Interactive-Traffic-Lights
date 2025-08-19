@@ -26,7 +26,14 @@ For a more in depth understanding of GPIO and RCC drivers, please refer to the f
 - The GPIO peripheral is initialized with its registers to configure the I/O operation.
 - Program the GPIO pin for the desired operation.
 <div align="center">
-  <img width="341" height="259" alt="image" src="https://github.com/user-attachments/assets/e61c98c9-b045-4f82-b705-becbe1ac3031" />
+  <div align="left">
+    <video src="https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932" width="400" />  
+  </div>
+
+  <div align="right">
+      <img width="341" height="259" alt="image" src="https://github.com/user-attachments/assets/e61c98c9-b045-4f82-b705-becbe1ac3031" />
+  </div>
+
 
 </div>
 
