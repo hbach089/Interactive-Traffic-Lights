@@ -3,8 +3,8 @@
 ## Table of contents
 
 - [General Info](##general-info)
-- [Documentation](## Documentation)
-- [Project Setup](## Project Setup)
+- [Documentation](##documentation)
+- [Project Setup](##project-setup)
 
 ## General Info
 
