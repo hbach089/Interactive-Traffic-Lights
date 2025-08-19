@@ -32,5 +32,7 @@ For a more in depth understanding of GPIO and RCC drivers, please refer to the f
     <h2><a href="https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932"> Live Demo</a></h2>
 </div>
 <a href="">hii</a>
-<video src="463489657-c833410d-1621-4811-af2f-cb709f47c932"></video>
+<video src='463489657-c833410d-1621-4811-af2f-cb709f47c932' width=180/>
+[KKl](463489657-c833410d-1621-4811-af2f-cb709f47c932)
+
 
