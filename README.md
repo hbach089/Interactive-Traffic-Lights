@@ -2,11 +2,14 @@
 
 ## Table of contents
 
-- [General Info](##general-info)
+- [General Info](general-info)
 - [Documentation](##documentation)
 - [Project Setup](##project-setup)
 
-## General Info
+<h2 id="general-info">
+   General Info
+</h2>
+
 
 - Board: STM32F446re
 - Each peripheral has a 32 bit address which provides the basis of this project.
