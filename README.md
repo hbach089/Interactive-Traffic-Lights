@@ -33,5 +33,5 @@ For a more in depth understanding of GPIO and RCC drivers, please refer to the f
 </div>
 <a href="">hii</a>
 <video src='463489657-c833410d-1621-4811-af2f-cb709f47c932' width=180/>
-[jj](https://github.com/hbach089/Interactive-Traffic-Lights/blob/main/Video/463489657-c833410d-1621-4811-af2f-cb709f47c932.mp4)
+![jj](https://github.com/hbach089/Interactive-Traffic-Lights/blob/main/Video/463489657-c833410d-1621-4811-af2f-cb709f47c932.mp4)
 
