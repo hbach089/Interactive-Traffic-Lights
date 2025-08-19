@@ -27,7 +27,7 @@ For a more in depth understanding of GPIO and RCC drivers, please refer to the f
 - Program the GPIO pin for the desired operation.
 
 <div display="flex">
-  <a href="[https://www.w3schools.com](https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932)">Video!</a>
+  <a href="https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932">Video!</a>
 
 </div>
 <div>
