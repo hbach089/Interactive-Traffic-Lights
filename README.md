@@ -9,7 +9,7 @@
 
 ## General Info
 
-- Board: STM32F446re
+- Board: **STM32F446re**
 - Each peripheral has a 32 bit address which provides the basis of this project.
 - GPIO and RCC peripherals connected to AHB1 bus (0x4002 0000).
 - GPIOA, GPIOB, GPIOC and RCC were used.
