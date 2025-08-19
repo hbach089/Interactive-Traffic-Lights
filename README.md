@@ -1,4 +1,4 @@
-# Bare Metal Interactive Traffic Light simulator programmed using GPIO drivers.
+# Bare Metal Interactive Traffic Light simulator built with custom GPIO drivers on STM32F446RE.
 
 ## Table of contents
 
