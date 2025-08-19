@@ -25,6 +25,9 @@ For a more in depth understanding of GPIO and RCC drivers, please refer to the f
 - The GPIO clock is initialized by enabling a bit corresponding to it under the RCC register.
 - The GPIO peripheral is initialized with its registers to configure the I/O operation.
 - Program the GPIO pin for the desired operation.
+<div align="center">
+  <video src="[myvideo.mp4](https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932)" width="400" />
+</div>
 
-https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932
+
 
