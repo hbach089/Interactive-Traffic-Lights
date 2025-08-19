@@ -27,7 +27,7 @@ For a more in depth understanding of GPIO and RCC drivers, please refer to the f
 - Program the GPIO pin for the desired operation.
 
 <div display="flex">
-  <h1> <a href="https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932">Live Demo!</a>  </h1>
+  <h4> <a href="https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932">Live Demo!</a>  </h4>
     <img width="341" height="259" alt="image" src="https://github.com/user-attachments/assets/e61c98c9-b045-4f82-b705-becbe1ac3031" />    
 
 </div>
