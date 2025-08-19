@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-- [General Info](general-info)
-- [Documentation](##documentation)
-- [Project Setup](##project-setup)
+- [General Info](#general-info)
+- [Documentation](#documentation)
+- [Project Setup](#project-setup)
 
 
 ## General Info
