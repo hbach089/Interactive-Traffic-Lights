@@ -29,7 +29,7 @@ For a more in depth understanding of GPIO,RCC and basic timer drivers, please re
 - The GPIO peripheral is initialized with its registers to configure the I/O operation.
 - The basic timer (TIM6) perscaler and reload value is set using its designated registers.
 - Program the GPIO pin for the desired operation and use TIM6 for delays.
-<br>
+
 ## Side note: perscaler and reload values are preloaded, so it is important to generate an event after setting their values to save them. 
 
 <div align=center>
