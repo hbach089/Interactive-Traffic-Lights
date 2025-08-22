@@ -30,7 +30,7 @@ For a more in depth understanding of GPIO,RCC and basic timer drivers, please re
 - The basic timer (TIM6) perscaler and reload value is set using its designated registers.
 - Program the GPIO pin for the desired operation and use TIM6 for delays.
 
-## Side note: perscaler and reload values are preloaded, so it is important to generate an event after setting their values to save them. 
+***Side note: perscaler and reload values are preloaded, so it is important to generate an event after setting their values to save them.***
 
 <div align=center>
     <img width="667" height="475" alt="image" src="https://github.com/user-attachments/assets/c90846e0-6bae-41da-adb1-a24628e071bc" />
