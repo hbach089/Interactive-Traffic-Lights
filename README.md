@@ -38,7 +38,7 @@ For a more in depth understanding of GPIO, Interrupts, RCC and basic timer drive
 
 <div align=center>
     <img width="667" height="475" alt="image" src="https://github.com/hbach089/Interactive-Traffic-Lights/blob/main/480672738-c90846e0-6bae-41da-adb1-a24628e071bc.png?raw=true" />
-    <h2><a href="https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932"> Live Demo</a></h2>
+    <h2><a href="https://github.com/user-attachments/assets/297d6391-dc0f-4e43-96cd-58c722f96470"> Live Demo</a></h2>
 </div>
 
 
