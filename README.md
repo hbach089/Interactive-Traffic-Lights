@@ -37,7 +37,7 @@ For a more in depth understanding of GPIO, Interrupts, RCC and basic timer drive
 ***Side note: perscaler and reload values are preloaded, so it is important to generate an event after setting their values to save them.***
 
 <div align=center>
-    <img width="667" height="475" alt="image" src="https://github.com/user-attachments/assets/c90846e0-6bae-41da-adb1-a24628e071bc" />
+    <img width="667" height="475" alt="image" src="https://github.com/hbach089/Interactive-Traffic-Lights/blob/main/480672738-c90846e0-6bae-41da-adb1-a24628e071bc.png?raw=true" />
     <h2><a href="https://github.com/user-attachments/assets/c833410d-1621-4811-af2f-cb709f47c932"> Live Demo</a></h2>
 </div>
 
