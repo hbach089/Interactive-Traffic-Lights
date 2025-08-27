@@ -1,0 +1,8 @@
+../Src/drivers.c:5:6:GPIO_Clock_Init	9
+../Src/drivers.c:32:6:NVIC_SetPriority	1
+../Src/drivers.c:36:6:NVIC_EnableIRQ	1
+../Src/drivers.c:40:6:GPIO_Init	2
+../Src/drivers.c:76:6:Write_To_Pin	2
+../Src/drivers.c:88:6:TIM_Init	2
+../Src/drivers.c:106:6:delay	3
+../Src/drivers.c:114:6:EXTI_init	3
