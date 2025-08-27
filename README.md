@@ -9,7 +9,7 @@
 
 ## General Info
 
-- Board: **STM32F446RE**
+- MCU: **STM32F446RE**
 - Each peripheral has a 32 bit address which provides the basis of this project.
 - GPIO and RCC peripherals connected to AHB1 bus (0x4002 0000).
 - Basic timers connected to APB1 bus (0x 4000 1000).
