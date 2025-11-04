@@ -1,5 +1,7 @@
 # Bare Metal Interactive Traffic Light simulator built with custom peripheral drivers on STM32F446RE.
 
+Live demo at the bottom.
+
 ## Table of contents
 
 - [General Info](#general-info)
